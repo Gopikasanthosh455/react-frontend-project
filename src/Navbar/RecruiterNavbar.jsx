@@ -23,7 +23,7 @@ function RecruiterNavbar() {
             <Nav.Link href="/viewJobs" className="text-center">
               View Jobs
             </Nav.Link>
-            <Nav.Link href="/recruiterHome" className="text-center">
+            <Nav.Link href="/" className="text-center">
               Logout
             </Nav.Link>
           </Nav>
