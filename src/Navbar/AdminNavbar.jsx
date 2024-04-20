@@ -20,9 +20,6 @@ function AdminNavbar() {
             <Nav.Link href="/administratorJobdetails" className="text-center">
               Recruiter
             </Nav.Link>
-            <Nav.Link href="/" className="text-center">
-              Logout
-            </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
