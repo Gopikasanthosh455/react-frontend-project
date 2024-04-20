@@ -20,7 +20,7 @@ function AdminNavbar() {
             <Nav.Link href="/administratorJobdetails" className="text-center">
               Recruiter
             </Nav.Link>
-            <Nav.Link href="/adminHome" className="text-center">
+            <Nav.Link href="/" className="text-center">
               Logout
             </Nav.Link>
           </Nav>
