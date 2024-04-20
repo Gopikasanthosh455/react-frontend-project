@@ -52,7 +52,7 @@ function DepartmentDetails() {
           />
         </Form.Group>
 
-        <Link to='/addDetails'>
+        <Link to='//addDetailsDashboard'>
         <Button className="submit-button" variant="primary" type="submit">
          Submit
         </Button></Link>
