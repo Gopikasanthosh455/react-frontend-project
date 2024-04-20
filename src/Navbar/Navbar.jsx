@@ -20,7 +20,7 @@ function NavBar() {
             <Nav.Link href="/JobDashboard" className="text-center">
               Job Details
             </Nav.Link>
-            <Nav.Link href="/addDetails" className="text-center">
+            <Nav.Link href="/addDetailsDashboard" className="text-center">
               Add details
             </Nav.Link>
             <Nav.Link href="/home" className="text-center">
