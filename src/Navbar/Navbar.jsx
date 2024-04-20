@@ -26,7 +26,7 @@ function NavBar() {
             <Nav.Link href="/home" className="text-center">
               Notification
             </Nav.Link>
-            <Nav.Link href="/home" className="text-center">
+            <Nav.Link href="/" className="text-center">
               Logout
             </Nav.Link>
           </Nav>
