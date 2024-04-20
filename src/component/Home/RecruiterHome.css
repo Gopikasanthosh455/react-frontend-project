@@ -1,0 +1,21 @@
+.recruiter-home-container {
+  background-image: url('https://i.pinimg.com/736x/eb/c8/e6/ebc8e6b73e8681d1a157711168a76ff2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.custom-container {
+  font-family: Arial, sans-serif; /* Change the font family */
+}
+
+.custom-container h1 {
+  color: blue; /* Change the font color to blue */
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  margin: 0;
+  font-size: 2.5em; /* Change the font size */
+}
