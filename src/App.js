@@ -36,6 +36,7 @@ import SkillsUpdate from "./Updates/SkillsUpdate/SkillsUpdate";
 import WorkExperienceUpdate from "./Updates/WorkExperienceUpdate/WorkExperienceUpdate";
 import DepartmentDetailsUpdate from "./Updates/DepartmentDetailsUpdate/DepartmentDetailsUpdate";
 import AddDetailsDashboard from "./dashboard/AddDetailsDashboard";
+import AddProfile from "./component/AddProfile/AddProfile";
 
 
 function App() {
@@ -76,7 +77,8 @@ function App() {
         <Route path="/Projectupdate" element={<ProjectDetailsUpdate/>} />   
         <Route path="/Departmentupdate" element={<DepartmentDetailsUpdate/>} />   
         <Route path="/Informationupdate" element={<InformationUpdate/>} />   
-        <Route path="/addDetailsDashboard" element={<AddDetailsDashboard/>} />   
+        <Route path="/addDetailsDashboard" element={<AddDetailsDashboard/>} />  
+        <Route path="/AddProfile" element={<AddProfile/>} />   
 
       </Routes>
     </BrowserRouter>
@@ -84,4 +86,3 @@ function App() {
 }
 
 export default App;
- 
