@@ -23,6 +23,9 @@ function RecruiterNavbar() {
             <Nav.Link href="/viewJobs" className="text-center">
               View Jobs
             </Nav.Link>
+            <Nav.Link href="/AddProfile" className="text-center">
+             Add Details
+            </Nav.Link>
             <Nav.Link href="/" className="text-center">
               Logout
             </Nav.Link>
@@ -33,3 +36,4 @@ function RecruiterNavbar() {
   );
 }
 export default RecruiterNavbar;
+
